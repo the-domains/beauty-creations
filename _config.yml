@@ -1,0 +1,13 @@
+layout_spectrum: 0.2331968
+typography_spectrum: 0.2153474
+color:
+  saturation: 0.3450167
+  lightness: 0.9138629
+  brandStrength: 0.09677419
+  brandColors:
+    - '#FFFFFF'
+    - '#E1C8BB'
+    - '#42281F'
+    - '#BD6F5D'
+  rhythmicContrast: 0.1844861
+name: 'Beauty Creations '
