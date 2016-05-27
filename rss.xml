@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Beauty Creations ]]></title>
+        <description><![CDATA[Beauty Creations ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 May 2016 00:38:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Join the Volition Collective]]></title>
+            <description><![CDATA[<article><h1>Join the Volition Collective</h1><p>Co-Create Our Launch Product Line</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbaadc510f60947fd2a8e072eed920a4a70e9696.jpg"></article>]]></description>
+            <link>http://volitionbeauty.com/campaigns/essential-brow-and-lash-primer</link>
+            <guid isPermaLink="false">3850ffe3-890c-42a7-bb02-fbeb4564dc9f</guid>
+            <pubDate>Fri, 27 May 2016 00:38:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
