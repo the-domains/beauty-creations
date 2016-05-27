@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Beauty Creations ]]></title>
         <description><![CDATA[Beauty Creations ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beauty-creations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 00:38:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 May 2016 00:39:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beauty-creations/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MEET THE MAKE: Q&A with Michelle, the Innovator Behind Essential Brow & Lash Primer | Volition Beauty's Blog: Collectivity]]></title>
+            <description><![CDATA[<article><h1>MEET THE MAKE: Q&A with Michelle, the Innovator Behind Essential Brow & Lash Primer | Volition Beauty's Blog: Collectivity</h1><p>If they want a product that not only thickens and conditions their eyebrows but also their eyelashes too; that will work with regular use, then this is the product to do the job! Q : What was your inspiration for this product?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19825b4c1d80f777ed728f06f5759ab15a78117c.jpg"></article>]]></description>
+            <link>http://www.volitioncollectivity.com/#!MEET-THE-MAKE-QA-with-Michelle-the-Innovator-Behind-Essential-Brow-Lash-Primer/c1kw6/56b3c8eb0cf26832893a17f3</link>
+            <guid isPermaLink="false">79228b10-d23c-4b1b-bb0f-871c0b8ee850</guid>
+            <pubDate>Fri, 27 May 2016 00:38:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Join the Volition Collective]]></title>
-            <description><![CDATA[<article><h1>Join the Volition Collective</h1><p>Co-Create Our Launch Product Line</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbaadc510f60947fd2a8e072eed920a4a70e9696.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Join the Volition Collective</h1><p>Co-Create Our Launch Product Line</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8ffdc127fdc646558d8d73a09907aaa536d8ec4.jpg"></article>]]></description>
             <link>http://volitionbeauty.com/campaigns/essential-brow-and-lash-primer</link>
             <guid isPermaLink="false">3850ffe3-890c-42a7-bb02-fbeb4564dc9f</guid>
             <pubDate>Fri, 27 May 2016 00:38:58 GMT</pubDate>
